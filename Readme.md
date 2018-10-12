@@ -6,7 +6,7 @@ Natural disasters like floods, earthquakes, cyclones occur every year, all over 
 ## Our Plan
 Keeping the idea in mind, we are dividing our project into two parts:
 
-### 1. Disaster Predicton (Research based)
+### 1. Disaster Prediction (Research based)
 - We will use available data to train ML models to try to predict natural disasters - like earthquakes, floods, tsunamis, cyclones, hurricanes.
 - Each one of them has different ways to try to predict them.
 - For example, for cyclones and hurricanes, we might look at data on temperature variations, humidity content, wind directions and more. For earthquakes and volcanoes, we need to look at data on seismic activity. Volcanic eruptions can sometimes also follow some patterns in time, like once in two decades, once in a century, and so on.
